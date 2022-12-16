@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdventCode_2022": {
+      "commandName": "Project",
+      "commandLineArgs": "\"4\", \"5\""
+    }
+  }
+}
